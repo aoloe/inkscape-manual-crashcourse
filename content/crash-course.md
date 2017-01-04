@@ -28,7 +28,12 @@
 - Space: Switch back to pointer from your current tool.
 - Press space, click+drag: scroll the window.
 
-Context menus, accessible by right click, are your friends.
+## Hints
+
+- Context menus, accessible by right click, are your friends.
+- Clicking on toolbar buttons and reading the menu items, plus a little experimentation, also helps.
+
+## Further steps
 
 - Re symmetries: look at the star tool (press asterisk).
 - Explore clones: clone an object with Shift+D, mirror it with H or V, then try editing the original object. Shift+D brings you from a clone to the original.
